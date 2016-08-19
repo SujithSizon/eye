@@ -5,7 +5,7 @@ classical eye following mouse webpage layout
   <img src="screensht.gif" width="350"/>
 </p>
 
-<h5>Quick steal: Javascript: eyefollow()</h5>
+<h4>Quick steal: Javascript: eyefollow()</h4>
 ```javascript
 function eyefollow() {
 	var tooltipSpan = document.getElementById('eyes');

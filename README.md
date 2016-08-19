@@ -1,8 +1,8 @@
 <h1>eye</h1>
 classical eye following mouse webpage layout
 
-<p align="center">
-  <img src="screensht1.gif" width="350"/>
+<p>
+  <img src="screensht1.gif" width="400"/>
 </p>
 <h3>Quick steal: Javascript: eyefollow()</h3>
 ```javascript

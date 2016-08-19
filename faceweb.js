@@ -1,4 +1,4 @@
-function move(){
+function eyefollow(){
 	var tooltipSpan = document.getElementById('eyes');
 	window.onmousemove = function (e) {
     var x = 0.01*(e.clientX), y = 0.01*(e.clientY);
@@ -6,4 +6,4 @@ function move(){
     tooltipSpan.style.left = (x + 448) + 'px';
 	}	
 }
-window.onload=move; 
+window.onload=eyefollow; 

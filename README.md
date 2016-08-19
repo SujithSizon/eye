@@ -1,7 +1,7 @@
 <h1>eye</h1>
 classical eye following mouse webpage layout
 
-![Alt Text](https://github.com/SujithSizon/eye/raw/master/screenshot.gif)
+![Alt Text](https://github.com/SujithSizon/eye/raw/master/screensht.gif)
 
 <h3>Quick steal: Javascript: eyefollow()</h3>
 ```javascript

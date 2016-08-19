@@ -1,6 +1,6 @@
 # eye
 classical eye following mouse webpage layout
 
-<p align="center">
+<p>
   <img src="screensht.gif" width="350"/>
 </p>

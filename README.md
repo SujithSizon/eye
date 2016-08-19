@@ -6,7 +6,7 @@ classical eye following mouse webpage layout
 </p>
 
 <h3>Quick steal: Javascript: eyefollow()</h3>
-
+```javascript
 function eyefollow() {
 	var tooltipSpan = document.getElementById('eyes');
 	window.onmousemove = function (e) {
@@ -16,5 +16,5 @@ function eyefollow() {
     tooltipSpan.style.left = (x + 448) + 'px';
 	}	
 }
-
+```
 where var "screen_drag_offset" decides the drag factor for the eyeballs to prevent overcrossing layers.

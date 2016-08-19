@@ -1,0 +1,77 @@
+html{
+	background: url('bakimg1.jpg') no-repeat center center fixed; 
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#shell{pointer-events: none;
+	position:absolute;
+	top:0px;
+	left:-250px;
+}
+#eyebak{pointer-events: none;
+	position:absolute;
+	top:470px;
+	left:400px;
+}
+#eyes{pointer-events: none;
+	position:absolute;
+	top:484px;
+	left:440px;
+}
+#right1{	
+	position:absolute;
+	top:0px;
+	left:950px;
+	-webkit-transition: -webkit-transform 0.4s, -webkit-filter 0.4s;
+}
+#right1:hover{-webkit-filter: opacity(50%);
+	-webkit-transform: scale(0.95,0.95);
+}
+#right2{	
+	position:absolute;
+	top:150px;
+	left:980px;
+	-webkit-transition: -webkit-transform 0.4s, -webkit-filter 0.4s;
+}
+#right2:hover{-webkit-filter: opacity(50%);
+	-webkit-transform: scale(0.93,0.93);
+}
+#right3{	
+	position:absolute;
+	top:309px;
+	left:1000px;
+	-webkit-transition: -webkit-transform 0.4s, -webkit-filter 0.4s;
+}
+#right3:hover{-webkit-filter: opacity(50%);
+	-webkit-transform: scale(0.9,0.9);
+}
+#right4{	
+	position:absolute;
+	top:480px;
+	left:1013px;
+	-webkit-transition: -webkit-transform 0.4s, -webkit-filter 0.4s;
+}
+#right4:hover{-webkit-filter: opacity(50%);
+	-webkit-transform: scale(0.9,0.9);
+}
+#right5{
+	position:absolute;
+	top:565px;
+	left:1017px;
+	-webkit-transition: -webkit-transform 0.4s, -webkit-filter 0.4s;
+}
+#right5:hover{-webkit-filter: opacity(50%);
+	-webkit-transform: scale(0.9,0.9);
+}
+#right6{	
+	position:absolute;
+	top:659px;
+	left:1005px;   
+	-webkit-transition: -webkit-transform 0.4s, -webkit-filter 0.4s;
+}
+#right6:hover{-webkit-filter: opacity(50%);
+	-webkit-transform: scale(0.9,0.9);
+}
+
